@@ -57,3 +57,10 @@ Git es una herramienta poderosa que, una vez dominada, se convierte en un compa�
 | `git branch`  | Crea, lista o elimina ramas en el repositorio.                             | `git branch <nombre_rama>`     |
 | `git checkout`| Cambia entre ramas o revisiones específicas.                               | `git checkout <nombre_rama>`   |
 | `git merge`   | Combina los cambios de una rama en la rama activa actual.                  | `git merge <nombre_rama>`      |
+
+
+## Recursos adicionales
+
+Puedes descargar la guía de referencia creada por GitHub en formato PDF desde el siguiente enlace:
+
+[Descargar guía básica](Conceptos basicos/github-git-cheat-sheet.pdf)
