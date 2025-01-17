@@ -63,4 +63,4 @@ Git es una herramienta poderosa que, una vez dominada, se convierte en un compa�
 
 Puedes descargar la guía de referencia creada por GitHub en formato PDF desde el siguiente enlace:
 
-[Descargar guía básica](Conceptos basicos/github-git-cheat-sheet.pdf)
+[Descargar guía básica Git](github-git-cheat-sheet.pdf)
